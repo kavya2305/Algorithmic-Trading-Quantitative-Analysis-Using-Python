@@ -6,7 +6,7 @@ Handling NaN values
 """
 
 import datetime as dt
-# import yfinance as yf
+import yfinance as yf
 import pandas as pd
 from alpha_vantage.timeseries import TimeSeries
 
@@ -32,4 +32,7 @@ cl_price.fillna(method='ffill',axis=0,inplace=True)
 
     #to drop na values
 cl_price.dropna(axis=0, how='any')
+
+for ticker in stocks:
+    ohlcv['ticker']= yf.download(ticker,start,end)
 
