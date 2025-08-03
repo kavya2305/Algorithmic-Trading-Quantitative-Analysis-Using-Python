@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Aug  3 22:41:54 2025
-
+Basic Statistic functions mainly with rolling window and evm
 @author: kavya
 """
 
