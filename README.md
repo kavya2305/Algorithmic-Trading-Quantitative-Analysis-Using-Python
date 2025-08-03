@@ -1,2 +1,2 @@
 # Algorithmic-Trading-Quantitative-Analysis-Using-Python
-Learning to build a fully automated trading bot on a shoestring budget.
+Learnings from Udemy Course algorithmic-trading-quantitative-analysis-using-python By Mayank Rasu
