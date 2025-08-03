@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Aug  3 15:16:18 2025
-Handling NaN values
+Handling NaN values. Here it is done with alpha_vantage instead of Yfinance
 @author: kavya
 """
 
